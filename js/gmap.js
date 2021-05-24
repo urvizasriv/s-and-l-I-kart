@@ -13,13 +13,7 @@
 
 }(this, function() {
 
-/*!
- * GMaps.js v0.4.25
- * http://hpneo.github.com/gmaps/
- *
- * Copyright 2017, Gustavo Leon
- * Released under the MIT License.
- */
+
 
 var extend_object = function(obj, new_obj) {
   var name;
