@@ -1,34 +1,4 @@
-/* =====================================
-Template Name: bizman
-Author Name: Shakil Hossain
-Author URI: http://codeglim.com
-Description: bizman is a modern responsive business and personal tempalte, you can use this template for your business,corporate,agency and personal purpouse.
-Version:	1.2
-=========================================*/     
-/*================================================
-[Start Activation Code]
-================================================
-	+ Mobile Nav
-	+ Search Jquery
-	+ Wow Js
-	+ Main Slider
-	+ Service hover
-	+ Testimonial Carousel
-	+ Blog Carousel
-	+ Onepage Nav
-	+ Clients Carousel
-	+ Scrool Sticky
-	+ Parallax Js
-	+ Typed Js
-	+ Magnific Popup
-	+ Counter JS
-	+ ScrollUp jquery
-	+ Google Map
-	+ Extra JS
-	+ Preloader JS
-======================================
-[End Activation Code]
-======================================*/ 
+
 (function ($) {
 	"use strict";
     $(document).ready(function(){
@@ -274,7 +244,7 @@ Version:	1.2
 			lng: 90.412518,
 			title: 'Marker with InfoWindow',
 			infoWindow: {
-			content: '<p>Welcome to Codeglim</p>'
+			content: '<p>Welcome to I-Kart</p>'
 		}
 	});
 	
