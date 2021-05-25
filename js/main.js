@@ -1,7 +1,6 @@
 /* =====================================
 Template Name: bizman
 Author Name: Shakil Hossain
-Author URI: http://codeglim.com
 Description: bizman is a modern responsive business and personal tempalte, you can use this template for your business,corporate,agency and personal purpouse.
 Version:	1.2
 =========================================*/     
@@ -274,7 +273,7 @@ Version:	1.2
 			lng: 90.412518,
 			title: 'Marker with InfoWindow',
 			infoWindow: {
-			content: '<p>Welcome to Codeglim</p>'
+			content: '<p>Welcome to I-KART</p>'
 		}
 	});
 	
